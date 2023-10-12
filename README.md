@@ -37,4 +37,4 @@ devuelva otra lista de tuplas de tipo Entreno con aquellos registros que son de 
     * MAÑANA [07:00, 14:00) 
     * TARDE [14:00, 21:00) 
     * NOCHE [21:00, 07:00)
-   Para implementar esta función defina una función auxiliar **momento_dia**, que tome una tupla de tipo Entreno, y devuelva una cada "MAÑANA", "TARDE" O "NOCHE", dependiendo del momento del día en el que se produjo el entrenamiento.
+   Para implementar esta función defina una función auxiliar **momento_dia**, que tome una tupla de tipo Entreno, y devuelva una cadena "MAÑANA", "TARDE" o "NOCHE", dependiendo del momento del día en el que se produjo el entrenamiento.
